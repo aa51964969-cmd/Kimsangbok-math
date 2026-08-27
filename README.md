@@ -1,4 +1,4 @@
-English → README_EN(1).md
+English → README_EN (1).md
 # 상분학 · T함수론
 
 **김상복 (Sangbok Kim)** — 독립 수학 연구자, 강원도 춘천
